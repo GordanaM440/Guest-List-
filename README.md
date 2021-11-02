@@ -1,2 +1,2 @@
 # Guest-List-
- React
+This is a guest list app create with React.
